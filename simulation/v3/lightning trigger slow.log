@@ -1,0 +1,29 @@
+Questionable use of curly braces in "b§r7 vin 0 r={v(vcr)}"
+    Error: undefined symbol in: "[v](vcr)"
+Circuit: * C:\Users\Zijian\SynologyDrive\Documents\2023 Game Plan\KiCad\Lightning Trigger\simulation\v3\lightning trigger slow.asc
+
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+WARNING: Specified period is not longer than the sum of Trise, Tfall, and Ton for v2.  Increasing period to 1.001
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Nov 16 12:24:56 2023
+Total elapsed time: 0.145 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4300
+traniter = 4289
+tranpoints = 1715
+accept = 1549
+rejected = 166
+matrix size = 90
+fillins = 71
+solver = Normal
+Avg thread counts: 1.9/3.3/3.3/1.9
+Matrix Compiler1: 7.67 KB object code size  2.0/1.0/[0.8]
+Matrix Compiler2: 8.29 KB object code size  0.6/1.1/[0.4]
+
